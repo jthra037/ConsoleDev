@@ -12,9 +12,11 @@ AHeroCharacter::AHeroCharacter()
 
 	bUseControllerRotationYaw = false;
 
+	GLog->Log("$$$");
 	GetCharacterMovement()->bOrientRotationToMovement = true;
 	GetCharacterMovement()->RotationRate = FRotator(0.0f, 540.0f, 0.0f);
 	GetCharacterMovement()->MaxWalkSpeed = 400.0f;
+	GLog->Log("$Ball$");
 }
 
 // Called when the game starts or when spawned
