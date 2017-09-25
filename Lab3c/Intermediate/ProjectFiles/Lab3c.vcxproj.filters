@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Lab3c.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{2787F44E-E1AC-4CEC-8CFD-20CD2A39700F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Lab3c.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Lab3cEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{2CE8544F-EBBC-4307-83DD-ED385DE34660}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Lab3c">
+      <UniqueIdentifier>{C9DFD965-C38E-4570-97EB-4BE6370C34D6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Lab3c\Lab3c.Build.cs">
+      <Filter>Source\Lab3c</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Lab3c\Lab3c.cpp">
+      <Filter>Source\Lab3c</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Lab3c\Lab3c.h">
+      <Filter>Source\Lab3c</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Lab3c\Lab3cGameModeBase.cpp">
+      <Filter>Source\Lab3c</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Lab3c\Lab3cGameModeBase.h">
+      <Filter>Source\Lab3c</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Lab3c\MyPlayerController.cpp">
+      <Filter>Source\Lab3c</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Lab3c\MyPlayerController.h">
+      <Filter>Source\Lab3c</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Lab3c\UE4LabPlayerController.cpp">
+      <Filter>Source\Lab3c</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Lab3c\UE4LabPlayerController.h">
+      <Filter>Source\Lab3c</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Lab3c\HeroCharacter.h">
+      <Filter>Source\Lab3c</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Lab3c\HeroCharacter.cpp">
+      <Filter>Source\Lab3c</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
