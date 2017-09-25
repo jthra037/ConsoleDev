@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Lab3c-1875.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Tech\Desktop\ConsoleDev\Lab3c\Intermediate\Build\Win64\UE4Editor\Development\Lab3c\HeroCharacter.cpp.obj"
+"C:\Users\Tech\Desktop\ConsoleDev\Lab3c\Intermediate\Build\Win64\UE4Editor\Development\Lab3c\Lab3c.cpp.obj"
+"C:\Users\Tech\Desktop\ConsoleDev\Lab3c\Intermediate\Build\Win64\UE4Editor\Development\Lab3c\Lab3cGameModeBase.cpp.obj"
+"C:\Users\Tech\Desktop\ConsoleDev\Lab3c\Intermediate\Build\Win64\UE4Editor\Development\Lab3c\MyPlayerController.cpp.obj"
+"C:\Users\Tech\Desktop\ConsoleDev\Lab3c\Intermediate\Build\Win64\UE4Editor\Development\Lab3c\UE4LabPlayerController.cpp.obj"
+"C:\Users\Tech\Desktop\ConsoleDev\Lab3c\Intermediate\Build\Win64\UE4Editor\Development\Lab3c\HeroCharacter.gen.cpp.obj"
+"C:\Users\Tech\Desktop\ConsoleDev\Lab3c\Intermediate\Build\Win64\UE4Editor\Development\Lab3c\Lab3c.init.gen.cpp.obj"
+"C:\Users\Tech\Desktop\ConsoleDev\Lab3c\Intermediate\Build\Win64\UE4Editor\Development\Lab3c\Lab3cGameModeBase.gen.cpp.obj"
+"C:\Users\Tech\Desktop\ConsoleDev\Lab3c\Intermediate\Build\Win64\UE4Editor\Development\Lab3c\MyPlayerController.gen.cpp.obj"
+"C:\Users\Tech\Desktop\ConsoleDev\Lab3c\Intermediate\Build\Win64\UE4Editor\Development\Lab3c\UE4LabPlayerController.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Lab3c\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\Tech\Desktop\ConsoleDev\Lab3c\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Lab3c-1875.lib"

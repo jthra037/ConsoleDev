@@ -25,9 +25,9 @@
 /wd4838
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.17\Engine\Source"
-/I C:\Users\Tech\Desktop\Lab3c\Source
-/I C:\Users\Tech\Desktop\Lab3c\Intermediate\Build\Win64\UE4Editor\Inc\Lab3c
-/I C:\Users\Tech\Desktop\Lab3c\Source\Lab3c
+/I C:\Users\Tech\Desktop\ConsoleDev\Lab3c\Source
+/I C:\Users\Tech\Desktop\ConsoleDev\Lab3c\Intermediate\Build\Win64\UE4Editor\Inc\Lab3c
+/I C:\Users\Tech\Desktop\ConsoleDev\Lab3c\Source\Lab3c
 /I "C:\Program Files\Epic Games\UE_4.17\Engine\Source\Runtime\Core\Public"
 /I "C:\Program Files\Epic Games\UE_4.17\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "C:\Program Files\Epic Games\UE_4.17\Engine\Source\Runtime\Core\Public\Async"
@@ -357,9 +357,9 @@
 /FI"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\Tech\Desktop\Lab3c\Intermediate\Build\Win64\UE4Editor\Inc\Lab3c\Lab3cGameModeBase.gen.cpp"
-/FI"C:\Users\Tech\Desktop\Lab3c\Intermediate\Build\Win64\UE4Editor\Development\Lab3c\Definitions.Lab3c.h"
-/Fo"C:\Users\Tech\Desktop\Lab3c\Intermediate\Build\Win64\UE4Editor\Development\Lab3c\Lab3cGameModeBase.gen.cpp.obj"
+"C:\Users\Tech\Desktop\ConsoleDev\Lab3c\Intermediate\Build\Win64\UE4Editor\Inc\Lab3c\Lab3cGameModeBase.gen.cpp"
+/FI"C:\Users\Tech\Desktop\ConsoleDev\Lab3c\Intermediate\Build\Win64\UE4Editor\Development\Lab3c\Definitions.Lab3c.h"
+/Fo"C:\Users\Tech\Desktop\ConsoleDev\Lab3c\Intermediate\Build\Win64\UE4Editor\Development\Lab3c\Lab3cGameModeBase.gen.cpp.obj"
 /TP
 /GR-
 /W4
