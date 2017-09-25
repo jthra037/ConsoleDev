@@ -1,3 +1,0 @@
-D:\Users\Andrew\Documents\UnrealCrashCourse\UE4Lab\Source\UE4Lab\UE4Lab.Build.cs
-D:\Users\Andrew\Documents\UnrealCrashCourse\UE4Lab\Source\UE4Lab.Target.cs
-D:\Users\Andrew\Documents\UnrealCrashCourse\UE4Lab\Source\UE4LabEditor.Target.cs
