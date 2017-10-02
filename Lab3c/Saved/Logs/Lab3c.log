@@ -405,3 +405,935 @@ LogInit: Object subsystem initialized
 [2017.10.02-17.04.46:344][757]LogSavePackage: Save=23.81ms
 [2017.10.02-17.04.46:344][757]LogSavePackage: Moving '../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab3c/Saved/SideScrollerD26F07A743B02A3C5B5557A16A3EC1CA.tmp' to '../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab3c/Content/Maps/SideScroller.umap'
 [2017.10.02-17.04.46:347][757]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab3c/Content/Maps/SideScroller.umap
+[2017.10.02-17.13.23:115][292]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.10.02-17.13.28:271][642]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2017.10.02-17.13.28:277][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:277][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:278][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:278][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:278][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:278][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:279][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:279][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:279][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:279][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:280][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:280][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:280][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:281][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:281][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:281][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:281][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:282][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:282][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:282][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:282][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:282][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:283][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:283][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:283][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:283][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:284][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:284][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:284][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:284][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:285][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:285][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:285][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:285][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:285][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:286][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:286][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:286][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:287][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:287][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:287][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:287][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:288][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:288][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:288][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:288][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:289][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:289][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:289][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:289][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:290][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:290][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:290][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:290][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:291][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:291][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:291][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:291][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:292][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:292][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:292][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:292][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:293][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:293][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:293][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:293][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:294][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:294][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:294][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:294][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:295][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:295][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:295][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:295][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:296][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:296][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:296][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:296][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:297][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:297][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:297][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:297][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:298][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:298][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:298][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:298][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:299][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:299][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:299][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:299][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:299][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:300][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:300][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:300][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:300][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:301][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:301][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:301][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:301][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:302][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:302][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:302][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:303][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:303][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:303][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:303][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:304][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:304][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:304][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:304][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:305][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:305][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:305][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:305][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:307][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:307][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:308][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:311][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:312][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:314][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:314][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:359][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:404][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:408][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:408][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:410][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:410][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.13.28:493][642]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:132][985]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2017.10.02-17.14.11:136][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:136][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:137][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:137][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:137][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:137][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:137][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:138][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:138][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:138][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:138][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:139][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:139][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:139][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:140][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:140][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:140][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:140][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:141][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:141][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:141][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:141][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:142][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:142][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:142][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:142][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:143][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:143][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:143][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:143][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:143][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:144][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:144][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:144][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:144][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:145][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:145][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:145][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:145][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:145][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:146][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:146][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:146][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:146][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:147][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:147][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:147][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:147][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:147][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:148][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:148][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:148][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:148][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:149][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:149][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:149][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:149][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:149][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:150][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:150][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:150][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:150][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:151][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:151][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:151][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:151][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:152][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:152][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:152][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:152][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:152][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:153][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:153][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:153][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:153][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:154][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:154][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:154][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:154][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:154][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:155][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:155][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:155][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:155][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:156][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:156][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:156][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:157][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:157][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:157][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:157][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:158][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:158][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:158][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:158][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:159][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:159][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:159][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:159][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:160][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:160][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:160][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:160][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:160][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:161][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:161][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:161][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:161][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:162][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:162][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:162][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:162][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:162][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:163][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:164][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:164][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:165][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:168][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:169][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:171][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:172][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:201][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:224][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:227][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:228][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:230][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:230][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.11:307][985]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:826][671]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2017.10.02-17.14.26:830][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:830][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:831][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:831][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:831][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:831][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:832][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:832][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:832][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:832][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:832][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:833][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:833][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:833][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:833][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:834][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:834][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:834][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:834][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:835][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:835][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:835][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:835][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:836][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:836][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:836][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:836][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:837][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:837][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:837][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:837][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:837][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:838][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:838][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:838][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:838][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:839][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:839][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:839][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:839][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:839][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:840][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:840][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:840][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:840][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:841][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:841][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:841][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:841][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:841][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:842][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:842][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:842][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:842][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:843][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:843][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:843][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:844][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:844][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:844][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:844][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:845][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:845][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:845][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:845][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:846][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:846][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:846][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:846][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:846][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:847][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:847][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:847][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:847][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:848][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:848][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:848][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:848][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:848][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:849][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:849][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:849][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:849][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:850][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:850][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:850][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:850][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:851][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:851][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:851][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:852][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:852][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:852][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:852][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:853][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:853][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:853][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:853][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:854][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:854][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:854][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:854][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:854][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:855][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:855][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:855][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:855][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:856][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:856][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:856][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:856][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:857][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:857][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:857][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:859][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:859][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:860][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:863][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:863][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:867][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:867][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:894][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:916][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:920][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:920][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:922][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:923][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.14.26:996][671]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:698][399]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2017.10.02-17.15.11:703][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:703][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:704][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:704][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:705][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:705][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:705][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:705][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:706][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:706][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:706][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:706][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:707][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:707][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:707][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:707][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:707][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:708][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:708][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:708][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:708][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:709][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:709][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:709][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:709][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:710][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:710][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:710][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:710][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:711][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:711][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:711][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:711][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:711][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:712][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:712][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:712][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:712][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:713][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:713][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:713][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:714][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:714][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:714][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:714][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:714][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:715][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:715][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:715][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:715][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:716][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:716][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:716][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:716][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:717][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:717][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:717][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:717][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:718][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:718][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:718][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:718][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:718][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:719][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:719][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:719][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:720][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:720][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:720][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:721][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:721][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:721][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:722][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:722][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:722][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:722][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:723][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:723][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:723][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:724][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:724][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:724][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:725][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:725][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:725][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:726][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:726][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:726][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:727][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:727][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:727][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:728][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:728][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:729][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:729][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:729][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:729][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:729][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:730][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:730][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:730][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:730][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:731][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:731][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:731][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:732][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:732][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:732][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:732][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:733][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:733][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:733][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:734][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:734][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:736][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:737][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:738][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:741][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:741][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:744][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:744][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:764][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:781][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:784][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:785][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:787][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.11:854][399]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:327][564]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2017.10.02-17.15.22:331][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:331][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:331][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:332][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:332][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:332][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:332][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:333][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:333][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:333][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:333][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:334][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:334][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:334][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:335][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:335][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:335][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:335][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:335][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:336][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:336][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:336][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:336][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:337][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:337][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:337][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:337][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:337][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:338][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:338][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:338][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:338][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:339][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:339][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:339][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:339][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:339][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:340][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:340][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:340][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:340][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:341][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:341][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:341][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:341][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:341][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:342][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:342][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:342][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:342][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:343][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:343][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:343][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:343][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:343][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:344][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:344][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:344][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:344][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:345][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:345][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:345][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:345][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:345][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:346][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:346][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:346][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:346][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:347][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:347][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:347][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:347][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:347][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:348][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:348][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:348][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:348][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:349][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:349][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:349][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:349][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:349][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:350][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:350][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:350][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:351][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:352][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:352][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:352][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:352][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:353][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:353][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:353][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:353][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:353][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:354][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:354][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:354][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:354][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:355][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:355][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:355][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:355][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:355][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:356][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:356][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:356][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:356][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:357][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:357][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:357][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:357][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:358][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:358][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:359][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:359][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:360][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:363][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:364][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:366][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:366][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:390][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:413][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:416][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:417][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:419][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.15.22:489][564]LogVSAccessor: Warning: Couldn't access module table
+[2017.10.02-17.18.51:110][703]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.02-17.18.51:585][704]Cmd: QUIT_EDITOR
+[2017.10.02-17.18.52:153][704]LogExit: Preparing to exit.
+[2017.10.02-17.18.53:101][704]LogDirectoryWatcher: A directory notification for 'C:/Users/John/Documents/GitRepos/ConsoleDev/Lab3c/Content/' was aborted.
+[2017.10.02-17.18.53:254][704]LogExit: Editor shut down
+[2017.10.02-17.18.53:262][704]LogExit: Transaction tracking system shut down
+[2017.10.02-17.18.53:466][704]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.10.02-17.18.53:466][704]LogDirectoryWatcher: A directory notification for '../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab3c/Content/' was aborted.
+[2017.10.02-17.18.53:466][704]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.10.02-17.18.53:466][704]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.10.02-17.18.53:466][704]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.10.02-17.18.55:176][704]LogExit: Object subsystem successfully closed.
+[2017.10.02-17.18.55:321][704]LogD3D11RHI: Shutdown
+[2017.10.02-17.18.55:325][704]LogD3D11RHI: CleanupD3DDevice
+[2017.10.02-17.18.55:642][704]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.10.02-17.18.59:183][704]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (534)
+[2017.10.02-17.18.59:183][704]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (532)
+[2017.10.02-17.18.59:183][704]LogModuleManager: Shutting down and abandoning module SceneOutliner (530)
+[2017.10.02-17.18.59:193][704]LogModuleManager: Shutting down and abandoning module AddContentDialog (528)
+[2017.10.02-17.18.59:218][704]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.10.02-17.18.59:221][704]LogModuleManager: Shutting down and abandoning module WidgetCarousel (527)
+[2017.10.02-17.18.59:221][704]LogModuleManager: Shutting down and abandoning module EditorWidgets (524)
+[2017.10.02-17.18.59:221][704]LogModuleManager: Shutting down and abandoning module CollectionManager (522)
+[2017.10.02-17.18.59:227][704]LogDirectoryWatcher: A directory notification for 'C:/Users/John/Documents/GitRepos/ConsoleDev/Lab3c/Content/Collections/' was aborted.
+[2017.10.02-17.18.59:227][704]LogDirectoryWatcher: A directory notification for 'C:/Users/John/Documents/GitRepos/ConsoleDev/Lab3c/Content/Developers/John/Collections/' was aborted.
+[2017.10.02-17.18.59:227][704]LogDirectoryWatcher: A directory notification for 'C:/Users/John/Documents/GitRepos/ConsoleDev/Lab3c/Saved/Collections/' was aborted.
+[2017.10.02-17.18.59:227][704]LogModuleManager: Shutting down and abandoning module StatsViewer (520)
+[2017.10.02-17.18.59:248][704]LogModuleManager: Shutting down and abandoning module FoliageEdit (518)
+[2017.10.02-17.18.59:248][704]LogModuleManager: Shutting down and abandoning module LandscapeEditor (516)
+[2017.10.02-17.18.59:286][704]LogModuleManager: Shutting down and abandoning module MeshPaintMode (514)
+[2017.10.02-17.18.59:286][704]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (512)
+[2017.10.02-17.18.59:286][704]LogModuleManager: Shutting down and abandoning module ActorPickerMode (510)
+[2017.10.02-17.18.59:286][704]LogModuleManager: Shutting down and abandoning module GeometryMode (508)
+[2017.10.02-17.18.59:286][704]LogModuleManager: Shutting down and abandoning module TextureAlignMode (506)
+[2017.10.02-17.18.59:286][704]LogModuleManager: Shutting down and abandoning module BspMode (504)
+[2017.10.02-17.18.59:286][704]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (502)
+[2017.10.02-17.18.59:286][704]LogModuleManager: Shutting down and abandoning module HardwareSurvey (500)
+[2017.10.02-17.18.59:286][704]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (498)
+[2017.10.02-17.18.59:287][704]LogModuleManager: Shutting down and abandoning module AutomationWorker (496)
+[2017.10.02-17.18.59:297][704]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (494)
+[2017.10.02-17.18.59:311][704]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (492)
+[2017.10.02-17.18.59:394][704]LogModuleManager: Shutting down and abandoning module PlacementMode (491)
+[2017.10.02-17.18.59:394][704]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (488)
+[2017.10.02-17.18.59:394][704]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (486)
+[2017.10.02-17.18.59:394][704]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (484)
+[2017.10.02-17.18.59:394][704]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (482)
+[2017.10.02-17.18.59:394][704]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (480)
+[2017.10.02-17.18.59:395][704]LogModuleManager: Shutting down and abandoning module Media (479)
+[2017.10.02-17.18.59:395][704]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (476)
+[2017.10.02-17.18.59:395][704]LogModuleManager: Shutting down and abandoning module CharacterAI (474)
+[2017.10.02-17.18.59:395][704]LogModuleManager: Shutting down and abandoning module AudioCapture (472)
+[2017.10.02-17.18.59:395][704]LogModuleManager: Shutting down and abandoning module SequenceRecorder (471)
+[2017.10.02-17.18.59:416][704]LogModuleManager: Shutting down and abandoning module SmartSnapping (468)
+[2017.10.02-17.18.59:416][704]LogModuleManager: Shutting down and abandoning module SessionServices (466)
+[2017.10.02-17.18.59:416][704]LogModuleManager: Shutting down and abandoning module ViewportSnapping (464)
+[2017.10.02-17.18.59:416][704]LogModuleManager: Shutting down and abandoning module ViewportInteraction (462)
+[2017.10.02-17.18.59:416][704]LogModuleManager: Shutting down and abandoning module ClothPainter (460)
+[2017.10.02-17.18.59:436][704]LogModuleManager: Shutting down and abandoning module LogVisualizer (458)
+[2017.10.02-17.18.59:504][704]LogModuleManager: Shutting down and abandoning module IntroTutorials (456)
+[2017.10.02-17.18.59:528][704]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (455)
+[2017.10.02-17.18.59:570][704]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (452)
+[2017.10.02-17.18.59:598][704]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (450)
+[2017.10.02-17.18.59:598][704]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (448)
+[2017.10.02-17.18.59:598][704]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (447)
+[2017.10.02-17.18.59:638][704]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (444)
+[2017.10.02-17.18.59:639][704]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (442)
+[2017.10.02-17.18.59:639][704]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (440)
+[2017.10.02-17.18.59:639][704]LogModuleManager: Shutting down and abandoning module InputBindingEditor (438)
+[2017.10.02-17.18.59:639][704]LogModuleManager: Shutting down and abandoning module MergeActors (436)
+[2017.10.02-17.18.59:670][704]LogModuleManager: Shutting down and abandoning module SizeMap (434)
+[2017.10.02-17.18.59:670][704]LogModuleManager: Shutting down and abandoning module TreeMap (432)
+[2017.10.02-17.18.59:680][704]LogModuleManager: Shutting down and abandoning module ReferenceViewer (430)
+[2017.10.02-17.18.59:680][704]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (428)
+[2017.10.02-17.18.59:690][704]LogModuleManager: Shutting down and abandoning module LocalizationService (427)
+[2017.10.02-17.18.59:691][704]LogModuleManager: Shutting down and abandoning module HardwareTargeting (424)
+[2017.10.02-17.18.59:691][704]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (422)
+[2017.10.02-17.18.59:718][704]LogModuleManager: Shutting down and abandoning module UndoHistory (420)
+[2017.10.02-17.18.59:718][704]LogModuleManager: Shutting down and abandoning module XmlParser (418)
+[2017.10.02-17.18.59:719][704]LogModuleManager: Shutting down and abandoning module Blutility (416)
+[2017.10.02-17.18.59:719][704]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (414)
+[2017.10.02-17.18.59:719][704]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (413)
+[2017.10.02-17.18.59:720][704]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (410)
+[2017.10.02-17.18.59:720][704]LogModuleManager: Shutting down and abandoning module SettingsEditor (408)
+[2017.10.02-17.18.59:720][704]LogModuleManager: Shutting down and abandoning module ProjectLauncher (406)
+[2017.10.02-17.18.59:757][704]LogModuleManager: Shutting down and abandoning module SessionFrontend (404)
+[2017.10.02-17.18.59:769][704]LogModuleManager: Shutting down and abandoning module ProfilerClient (402)
+[2017.10.02-17.18.59:780][704]LogModuleManager: Shutting down and abandoning module DeviceManager (400)
+[2017.10.02-17.18.59:797][704]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (399)
+[2017.10.02-17.18.59:860][704]LogModuleManager: Shutting down and abandoning module AutomationController (396)
+[2017.10.02-17.18.59:861][704]LogModuleManager: Shutting down and abandoning module AutomationWindow (394)
+[2017.10.02-17.18.59:885][704]LogModuleManager: Shutting down and abandoning module Layers (392)
+[2017.10.02-17.18.59:931][704]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (390)
+[2017.10.02-17.18.59:931][704]LogModuleManager: Shutting down and abandoning module DetailCustomizations (388)
+[2017.10.02-17.18.59:942][704]LogModuleManager: Shutting down and abandoning module PackagesDialog (386)
+[2017.10.02-17.18.59:943][704]LogModuleManager: Shutting down and abandoning module Persona (384)
+[2017.10.02-17.19.00:005][704]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (383)
+[2017.10.02-17.19.00:005][704]LogModuleManager: Shutting down and abandoning module AnimGraph (381)
+[2017.10.02-17.19.00:010][704]LogModuleManager: Shutting down and abandoning module Kismet (378)
+[2017.10.02-17.19.00:021][704]LogModuleManager: Shutting down and abandoning module ClassViewer (376)
+[2017.10.02-17.19.00:022][704]LogModuleManager: Shutting down and abandoning module Toolbox (374)
+[2017.10.02-17.19.00:022][704]LogModuleManager: Shutting down and abandoning module ModuleUI (372)
+[2017.10.02-17.19.00:057][704]LogModuleManager: Shutting down and abandoning module MovieSceneTools (370)
+[2017.10.02-17.19.00:095][704]LogModuleManager: Shutting down and abandoning module OutputLog (368)
+[2017.10.02-17.19.00:115][704]LogModuleManager: Shutting down and abandoning module GammaUI (366)
+[2017.10.02-17.19.00:127][704]LogModuleManager: Shutting down and abandoning module Documentation (364)
+[2017.10.02-17.19.00:127][704]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (362)
+[2017.10.02-17.19.00:127][704]LogModuleManager: Shutting down and abandoning module MovieScene (360)
+[2017.10.02-17.19.00:135][704]LogModuleManager: Shutting down and abandoning module Niagara (358)
+[2017.10.02-17.19.00:135][704]LogModuleManager: Shutting down and abandoning module NiagaraEditor (357)
+[2017.10.02-17.19.00:171][704]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (354)
+[2017.10.02-17.19.00:171][704]LogModuleManager: Shutting down and abandoning module LauncherPlatform (352)
+[2017.10.02-17.19.00:171][704]LogModuleManager: Shutting down and abandoning module AnalyticsET (350)
+[2017.10.02-17.19.00:171][704]LogModuleManager: Shutting down and abandoning module PortalServices (348)
+[2017.10.02-17.19.00:171][704]LogModuleManager: Shutting down and abandoning module PortalRpc (346)
+[2017.10.02-17.19.00:171][704]LogModuleManager: Shutting down and abandoning module MessagingRpc (344)
+[2017.10.02-17.19.00:171][704]LogModuleManager: Shutting down and abandoning module AIModule (342)
+[2017.10.02-17.19.00:171][704]LogModuleManager: Shutting down and abandoning module GameplayDebugger (341)
+[2017.10.02-17.19.00:171][704]LogModuleManager: Shutting down and abandoning module AITestSuite (339)
+[2017.10.02-17.19.00:184][704]LogModuleManager: Shutting down and abandoning module ProfilerService (336)
+[2017.10.02-17.19.00:349][704]LogModuleManager: Shutting down and abandoning module TaskGraph (334)
+[2017.10.02-17.19.00:388][704]LogModuleManager: Shutting down and abandoning module SteamVRController (332)
+[2017.10.02-17.19.00:388][704]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (330)
+[2017.10.02-17.19.00:388][704]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (328)
+[2017.10.02-17.19.00:388][704]LogModuleManager: Shutting down and abandoning module OculusInput (326)
+[2017.10.02-17.19.00:389][704]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (324)
+[2017.10.02-17.19.00:389][704]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (322)
+[2017.10.02-17.19.00:389][704]LogModuleManager: Shutting down and abandoning module CableComponent (320)
+[2017.10.02-17.19.00:391][704]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (318)
+[2017.10.02-17.19.00:391][704]LogModuleManager: Shutting down and abandoning module AndroidPermission (316)
+[2017.10.02-17.19.00:391][704]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (312)
+[2017.10.02-17.19.00:449][704]LogModuleManager: Shutting down and abandoning module HTML5Networking (310)
+[2017.10.02-17.19.00:450][704]LogModuleManager: Shutting down and abandoning module AlembicImporter (308)
+[2017.10.02-17.19.00:450][704]LogModuleManager: Shutting down and abandoning module AlembicLibrary (307)
+[2017.10.02-17.19.00:450][704]LogModuleManager: Shutting down and abandoning module GeometryCache (306)
+[2017.10.02-17.19.00:450][704]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (305)
+[2017.10.02-17.19.00:450][704]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (300)
+[2017.10.02-17.19.00:450][704]LogModuleManager: Shutting down and abandoning module PluginBrowser (298)
+[2017.10.02-17.19.00:483][704]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (296)
+[2017.10.02-17.19.00:496][704]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (294)
+[2017.10.02-17.19.00:496][704]LogModuleManager: Shutting down and abandoning module UObjectPlugin (292)
+[2017.10.02-17.19.00:496][704]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (290)
+[2017.10.02-17.19.00:497][704]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (288)
+[2017.10.02-17.19.00:511][704]LogModuleManager: Shutting down and abandoning module GitSourceControl (286)
+[2017.10.02-17.19.00:513][704]LogModuleManager: Shutting down and abandoning module SourceControl (285)
+[2017.10.02-17.19.00:546][704]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (282)
+[2017.10.02-17.19.00:546][704]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (280)
+[2017.10.02-17.19.00:546][704]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (278)
+[2017.10.02-17.19.00:546][704]LogModuleManager: Shutting down and abandoning module Paper2DEditor (276)
+[2017.10.02-17.19.00:559][704]LogModuleManager: Shutting down and abandoning module MeshPaint (275)
+[2017.10.02-17.19.00:583][704]LogModuleManager: Shutting down and abandoning module LevelEditor (273)
+[2017.10.02-17.19.00:608][704]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (272)
+[2017.10.02-17.19.00:625][704]LogModuleManager: Shutting down and abandoning module MainFrame (270)
+[2017.10.02-17.19.00:626][704]LogModuleManager: Shutting down and abandoning module HotReload (269)
+[2017.10.02-17.19.00:626][704]LogDirectoryWatcher: A directory notification for 'C:/Users/John/Documents/GitRepos/ConsoleDev/Lab3c/Binaries/Win64' was aborted.
+[2017.10.02-17.19.00:636][704]LogModuleManager: Shutting down and abandoning module Lab3c (264)
+[2017.10.02-17.19.00:636][704]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (262)
+[2017.10.02-17.19.00:636][704]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (260)
+[2017.10.02-17.19.00:636][704]LogModuleManager: Shutting down and abandoning module PhysXVehicles (258)
+[2017.10.02-17.19.00:636][704]LogModuleManager: Shutting down and abandoning module OculusEditor (256)
+[2017.10.02-17.19.00:636][704]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (254)
+[2017.10.02-17.19.00:636][704]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (252)
+[2017.10.02-17.19.00:636][704]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (250)
+[2017.10.02-17.19.00:642][704]LogModuleManager: Shutting down and abandoning module UdpMessaging (248)
+[2017.10.02-17.19.00:744][704]LogModuleManager: Shutting down and abandoning module TcpMessaging (246)
+[2017.10.02-17.19.00:845][704]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (244)
+[2017.10.02-17.19.00:857][704]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (242)
+[2017.10.02-17.19.00:857][704]LogModuleManager: Shutting down and abandoning module FacialAnimation (240)
+[2017.10.02-17.19.00:857][704]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (238)
+[2017.10.02-17.19.00:871][704]LogModuleManager: Shutting down and abandoning module GraphEditor (237)
+[2017.10.02-17.19.00:942][704]LogModuleManager: Shutting down and abandoning module ContentBrowser (235)
+[2017.10.02-17.19.00:944][704]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (232)
+[2017.10.02-17.19.00:944][704]LogModuleManager: Shutting down and abandoning module Paper2D (230)
+[2017.10.02-17.19.00:958][704]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (228)
+[2017.10.02-17.19.00:964][704]LogModuleManager: Shutting down and abandoning module WmfMedia (226)
+[2017.10.02-17.19.00:971][704]LogModuleManager: Shutting down and abandoning module PacketHandler (224)
+[2017.10.02-17.19.00:971][704]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (222)
+[2017.10.02-17.19.00:971][704]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (220)
+[2017.10.02-17.19.01:008][704]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.10.02-17.19.01:008][704]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.10.02-17.19.01:008][704]LogModuleManager: Shutting down and abandoning module MediaAssets (214)
+[2017.10.02-17.19.01:008][704]LogModuleManager: Shutting down and abandoning module VREditor (212)
+[2017.10.02-17.19.01:024][704]LogModuleManager: Shutting down and abandoning module StringTableEditor (210)
+[2017.10.02-17.19.01:035][704]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (208)
+[2017.10.02-17.19.01:035][704]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (206)
+[2017.10.02-17.19.01:097][704]LogModuleManager: Shutting down and abandoning module FunctionalTesting (204)
+[2017.10.02-17.19.01:097][704]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (202)
+[2017.10.02-17.19.01:121][704]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (201)
+[2017.10.02-17.19.01:121][704]LogModuleManager: Shutting down and abandoning module UMG (198)
+[2017.10.02-17.19.01:180][704]LogModuleManager: Shutting down and abandoning module UMGEditor (197)
+[2017.10.02-17.19.01:239][704]LogModuleManager: Shutting down and abandoning module Sequencer (196)
+[2017.10.02-17.19.01:274][704]LogModuleManager: Shutting down and abandoning module MessageLog (193)
+[2017.10.02-17.19.01:274][704]LogModuleManager: Shutting down and abandoning module SlateReflector (188)
+[2017.10.02-17.19.01:293][704]LogModuleManager: Shutting down and abandoning module Slate (186)
+[2017.10.02-17.19.01:293][704]LogModuleManager: Shutting down and abandoning module EditorStyle (184)
+[2017.10.02-17.19.01:296][704]LogModuleManager: Shutting down and abandoning module MRMesh (182)
+[2017.10.02-17.19.01:296][704]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (180)
+[2017.10.02-17.19.01:296][704]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (178)
+[2017.10.02-17.19.01:296][704]LogModuleManager: Shutting down and abandoning module XAudio2 (176)
+[2017.10.02-17.19.01:296][704]LogModuleManager: Shutting down and abandoning module Networking (174)
+[2017.10.02-17.19.01:296][704]LogModuleManager: Shutting down and abandoning module Core (170)
+[2017.10.02-17.19.01:296][704]LogModuleManager: Shutting down and abandoning module KismetCompiler (166)
+[2017.10.02-17.19.01:296][704]LogModuleManager: Shutting down and abandoning module LevelSequence (164)
+[2017.10.02-17.19.01:296][704]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.10.02-17.19.01:358][704]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.10.02-17.19.01:368][704]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.10.02-17.19.01:368][704]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.10.02-17.19.01:389][704]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.10.02-17.19.01:389][704]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.10.02-17.19.01:427][704]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.10.02-17.19.01:428][704]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (148)
+[2017.10.02-17.19.01:429][704]LogModuleManager: Shutting down and abandoning module DerivedDataCache (146)
+[2017.10.02-17.19.01:444][704]LogDerivedDataCache: Shutdown
+[2017.10.02-17.19.01:444][704]LogModuleManager: Shutting down and abandoning module TargetPlatform (144)
+[2017.10.02-17.19.01:444][704]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (143)
+[2017.10.02-17.19.01:454][704]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (141)
+[2017.10.02-17.19.01:462][704]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (139)
+[2017.10.02-17.19.01:482][704]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (137)
+[2017.10.02-17.19.01:487][704]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (135)
+[2017.10.02-17.19.01:508][704]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (133)
+[2017.10.02-17.19.01:508][704]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (131)
+[2017.10.02-17.19.01:508][704]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (129)
+[2017.10.02-17.19.01:534][704]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (127)
+[2017.10.02-17.19.01:547][704]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (125)
+[2017.10.02-17.19.01:548][704]LogModuleManager: Shutting down and abandoning module ImageWrapper (124)
+[2017.10.02-17.19.01:548][704]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (121)
+[2017.10.02-17.19.01:548][704]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (119)
+[2017.10.02-17.19.01:548][704]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (117)
+[2017.10.02-17.19.01:548][704]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (115)
+[2017.10.02-17.19.01:548][704]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (113)
+[2017.10.02-17.19.01:548][704]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (111)
+[2017.10.02-17.19.01:548][704]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (109)
+[2017.10.02-17.19.01:548][704]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (107)
+[2017.10.02-17.19.01:548][704]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (105)
+[2017.10.02-17.19.01:548][704]LogModuleManager: Shutting down and abandoning module Messaging (103)
+[2017.10.02-17.19.01:548][704]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (101)
+[2017.10.02-17.19.01:548][704]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (99)
+[2017.10.02-17.19.01:548][704]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.10.02-17.19.01:548][704]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.10.02-17.19.01:548][704]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.10.02-17.19.01:548][704]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.10.02-17.19.01:548][704]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.10.02-17.19.01:548][704]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.10.02-17.19.01:549][704]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.10.02-17.19.01:549][704]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (83)
+[2017.10.02-17.19.01:549][704]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (81)
+[2017.10.02-17.19.01:549][704]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (79)
+[2017.10.02-17.19.01:549][704]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (77)
+[2017.10.02-17.19.01:550][704]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (75)
+[2017.10.02-17.19.01:550][704]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (73)
+[2017.10.02-17.19.01:550][704]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (71)
+[2017.10.02-17.19.01:550][704]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (69)
+[2017.10.02-17.19.01:550][704]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (67)
+[2017.10.02-17.19.01:550][704]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (65)
+[2017.10.02-17.19.01:550][704]LogModuleManager: Shutting down and abandoning module InputCore (62)
+[2017.10.02-17.19.01:550][704]LogModuleManager: Shutting down and abandoning module Settings (60)
+[2017.10.02-17.19.01:551][704]LogModuleManager: Shutting down and abandoning module PhysXCooking (58)
+[2017.10.02-17.19.01:551][704]LogModuleManager: Shutting down and abandoning module SteamVR (56)
+[2017.10.02-17.19.01:551][704]LogModuleManager: Shutting down and abandoning module OculusHMD (54)
+[2017.10.02-17.19.01:558][704]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (52)
+[2017.10.02-17.19.01:558][704]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (50)
+[2017.10.02-17.19.01:558][704]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (46)
+[2017.10.02-17.19.01:558][704]LogOnline: Display: Unloading online subsystem: NULL
+[2017.10.02-17.19.01:572][704]LogModuleManager: Shutting down and abandoning module XMPP (45)
+[2017.10.02-17.19.01:584][704]LogModuleManager: Shutting down and abandoning module HTTP (43)
+[2017.10.02-17.19.01:584][704]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.10.02-17.19.01:594][704]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3A6F4314-4C73-EFE7-E96B-5AA974BE9623%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=9e905e7742ede5cc8d0dc7a3e812a9a1%7Cfebd5a542d2a43a484ee90cd9e3da97c%7C1c180e6e-6f27-4924-8ca9-c3857288d553&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.10.02-17.19.01:603][704]LogModuleManager: Shutting down and abandoning module SSL (42)
+[2017.10.02-17.19.01:620][704]LogModuleManager: Shutting down and abandoning module DesktopPlatform (38)
+[2017.10.02-17.19.01:635][704]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.10.02-17.19.01:646][704]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.10.02-17.19.01:646][704]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.10.02-17.19.01:682][704]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.10.02-17.19.01:683][704]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.10.02-17.19.01:683][704]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.10.02-17.19.01:683][704]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.10.02-17.19.01:720][704]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.10.02-17.19.01:736][704]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.10.02-17.19.01:736][704]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.10.02-17.19.01:751][704]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.10.02-17.19.01:751][704]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.10.02-17.19.01:751][704]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.10.02-17.19.01:751][704]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.10.02-17.19.01:751][704]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.10.02-17.19.01:751][704]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.10.02-17.19.01:751][704]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.10.02-17.19.01:751][704]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.10.02-17.19.01:788][704]LogExit: Exiting.
+[2017.10.02-17.19.01:814][704]Log file closed, 10/02/17 13:19:01

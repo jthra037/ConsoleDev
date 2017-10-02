@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyLab4.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\John\Documents\GitRepos\ConsoleDev\Lab4\MyLab4\Intermediate\Build\Win64\UE4Editor\Development\MyLab4\MyLab4.cpp.obj"
+"C:\Users\John\Documents\GitRepos\ConsoleDev\Lab4\MyLab4\Intermediate\Build\Win64\UE4Editor\Development\MyLab4\MyLab4GameModeBase.cpp.obj"
+"C:\Users\John\Documents\GitRepos\ConsoleDev\Lab4\MyLab4\Intermediate\Build\Win64\UE4Editor\Development\MyLab4\MyLab4.init.gen.cpp.obj"
+"C:\Users\John\Documents\GitRepos\ConsoleDev\Lab4\MyLab4\Intermediate\Build\Win64\UE4Editor\Development\MyLab4\MyLab4GameModeBase.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\MyLab4\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\John\Documents\GitRepos\ConsoleDev\Lab4\MyLab4\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyLab4.lib"
