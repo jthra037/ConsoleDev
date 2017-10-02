@@ -1,3 +1,3 @@
-C:\Users\Tech\Desktop\ConsoleDev\Lab3c\Source\Lab3c\Lab3c.Build.cs
-C:\Users\Tech\Desktop\ConsoleDev\Lab3c\Source\Lab3c.Target.cs
-C:\Users\Tech\Desktop\ConsoleDev\Lab3c\Source\Lab3cEditor.Target.cs
+C:\Users\John\Documents\GitRepos\ConsoleDev\Lab3c\Source\Lab3c\Lab3c.Build.cs
+C:\Users\John\Documents\GitRepos\ConsoleDev\Lab3c\Source\Lab3c.Target.cs
+C:\Users\John\Documents\GitRepos\ConsoleDev\Lab3c\Source\Lab3cEditor.Target.cs
