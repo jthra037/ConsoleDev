@@ -1,0 +1,3 @@
+C:\Users\John\Documents\GitRepos\ConsoleDev\Lab4\MyLab4\Source\MyLab4\MyLab4.Build.cs
+C:\Users\John\Documents\GitRepos\ConsoleDev\Lab4\MyLab4\Source\MyLab4.Target.cs
+C:\Users\John\Documents\GitRepos\ConsoleDev\Lab4\MyLab4\Source\MyLab4Editor.Target.cs
