@@ -613,3 +613,808 @@ LogInit: Object subsystem initialized
 [2017.10.02-17.32.12:373][315]LogSavePackage: Save=47.55ms
 [2017.10.02-17.32.12:373][315]LogSavePackage: Moving '../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Saved/SideScrollerC36757C9466B5F0A28C6DCBAE487BEB0.tmp' to '../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Content/Maps/SideScroller.umap'
 [2017.10.02-17.32.12:377][315]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Content/Maps/SideScroller.umap
+[2017.10.02-17.35.05:662][503]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/HeroCharacter.FBX)
+[2017.10.02-17.35.05:917][503]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.10.02-17.35.05:917][503]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.10.02-17.35.05:917][503]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.10.02-17.35.05:917][503]LogFbx: ItemName: Model, ItemCount : 70
+[2017.10.02-17.35.05:917][503]LogFbx: ItemName: NodeAttribute, ItemCount : 68
+[2017.10.02-17.35.05:917][503]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.10.02-17.35.05:917][503]LogFbx: ItemName: Material, ItemCount : 2
+[2017.10.02-17.35.05:917][503]LogFbx: ItemName: Deformer, ItemCount : 69
+[2017.10.02-17.35.05:917][503]LogFbx: ItemName: Pose, ItemCount : 1
+[2017.10.02-17.35.05:927][503]LogFbx: Loading FBX Scene from ../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/HeroCharacter.FBX
+[2017.10.02-17.35.05:978][503]LogFbx: FBX Scene Loaded Succesfully
+[2017.10.02-17.35.08:755][503]LogFbx: Loading FBX Scene from ../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/HeroCharacter.FBX
+[2017.10.02-17.35.08:797][503]LogFbx: FBX Scene Loaded Succesfully
+[2017.10.02-17.35.08:798][503]LogFbx: =================================================
+[2017.10.02-17.35.08:798][503]LogFbx: Dumping Node START [SK_Mannequin] 
+[2017.10.02-17.35.08:798][503]LogFbx: 	Total Deformer Count -1773272704.
+[2017.10.02-17.35.08:798][503]LogFbx: 		[Node 1]  (Type Skin).
+[2017.10.02-17.35.08:798][503]LogFbx: =================================================
+[2017.10.02-17.35.08:798][503]LogFbx: 	Attribute (SK_Mannequin) Type (4).
+[2017.10.02-17.35.08:798][503]LogFbx: 		[Node Attribute Child 1] SK_Mannequin (Type Mesh).
+[2017.10.02-17.35.08:798][503]LogFbx: Dumping Node END [SK_Mannequin]
+[2017.10.02-17.35.08:799][503]LogFbx: =================================================
+[2017.10.02-17.35.08:799][503]LogFbx: Dumping Node START [SK_Mannequin] 
+[2017.10.02-17.35.08:799][503]LogFbx: 	Total Deformer Count -1773272704.
+[2017.10.02-17.35.08:799][503]LogFbx: 		[Node 1]  (Type Skin).
+[2017.10.02-17.35.08:799][503]LogFbx: =================================================
+[2017.10.02-17.35.08:799][503]LogFbx: 	Attribute (SK_Mannequin) Type (4).
+[2017.10.02-17.35.08:799][503]LogFbx: 		[Node Attribute Child 1] SK_Mannequin (Type Mesh).
+[2017.10.02-17.35.08:799][503]LogFbx: Dumping Node END [SK_Mannequin]
+[2017.10.02-17.35.08:801][503]LogFbx: =================================================
+[2017.10.02-17.35.08:802][503]LogFbx: Dumping Node START [SK_Mannequin] 
+[2017.10.02-17.35.08:802][503]LogFbx: 	Total Deformer Count -1773271504.
+[2017.10.02-17.35.08:802][503]LogFbx: 		[Node 1]  (Type Skin).
+[2017.10.02-17.35.08:802][503]LogFbx: =================================================
+[2017.10.02-17.35.08:802][503]LogFbx: 	Attribute (SK_Mannequin) Type (4).
+[2017.10.02-17.35.08:802][503]LogFbx: 		[Node Attribute Child 1] SK_Mannequin (Type Mesh).
+[2017.10.02-17.35.08:802][503]LogFbx: Dumping Node END [SK_Mannequin]
+[2017.10.02-17.35.08:831][503]LogFbx: Valid bind pose for Pose (SK_Mannequin) - SK_Mannequin
+[2017.10.02-17.35.08:840][503]LogLinker: Can't find file '/Game/Assets/HeroCharacter/M_UE4Man_Body'
+[2017.10.02-17.35.08:840][503]LogLinker: Can't find file '/Game/Assets/HeroCharacter/M_UE4Man_Body'
+[2017.10.02-17.35.08:862][503]LogMaterial: Warning: Material /Game/Assets/HeroCharacter/M_UE4Man_Body.M_UE4Man_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2017.10.02-17.35.08:864][503]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2017.10.02-17.35.09:089][503]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2017.10.02-17.35.09:129][503]LogLinker: Can't find file '/Game/Assets/HeroCharacter/Fbx_Default_Material_1'
+[2017.10.02-17.35.09:129][503]LogLinker: Can't find file '/Game/Assets/HeroCharacter/Fbx_Default_Material_1'
+[2017.10.02-17.35.09:129][503]LogMaterial: Warning: Material /Game/Assets/HeroCharacter/Fbx_Default_Material_1.Fbx_Default_Material_1 needed to have new flag set bUsedWithSkeletalMesh !
+[2017.10.02-17.35.09:132][503]LogMaterial: Missing cached shader map for material Fbx_Default_Material_1, compiling. 
+[2017.10.02-17.35.09:178][503]LogMaterial: Missing cached shader map for material Fbx_Default_Material_1, compiling. 
+[2017.10.02-17.35.09:333][503]LogFbx: Warning: Bones digested - 68  Depth of hierarchy - 12
+[2017.10.02-17.35.10:425][503]LogSkeletalMesh: Section 0: 23274 vertices, 60 active bones
+[2017.10.02-17.35.10:425][503]LogSkeletalMesh: Section 1: 35 vertices, 4 active bones
+[2017.10.02-17.35.10:512][503]LogSkeletalMesh: Section 0: Material=0, 41004 triangles
+[2017.10.02-17.35.10:512][503]LogSkeletalMesh: Section 1: Material=1, 48 triangles
+[2017.10.02-17.35.10:593][503]LogLinker: Can't find file '/Game/Assets/HeroCharacter/HeroCharacter_Skeleton'
+[2017.10.02-17.35.10:593][503]LogLinker: Can't find file '/Game/Assets/HeroCharacter/HeroCharacter_Skeleton'
+[2017.10.02-17.35.10:610][503]LogLinker: Can't find file '/Game/Assets/HeroCharacter/HeroCharacter_PhysicsAsset'
+[2017.10.02-17.35.10:610][503]LogLinker: Can't find file '/Game/Assets/HeroCharacter/HeroCharacter_PhysicsAsset'
+[2017.10.02-17.35.10:870][503]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.10.02-17.35.10:964][503]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 ../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonIdle.FBX)
+[2017.10.02-17.35.10:979][503]LogFbx: Loading FBX Scene from ../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonIdle.FBX
+[2017.10.02-17.35.11:028][503]LogFbx: FBX Scene Loaded Succesfully
+[2017.10.02-17.35.11:038][503]FBXImport: Error: Failed to find any bone hierarchy. Try disabling the "Import As Skeletal" option to import as a rigid mesh.  
+[2017.10.02-17.35.11:038][503]FBXImport: Error: Import failed. 
+[2017.10.02-17.35.23:010][503]LogAssetTools: Warning: Failed to import '../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonIdle.FBX'. Failed to create asset '/Game/Assets/HeroCharacter/ThirdPersonIdle'.
+Please see Output Log for details.
+[2017.10.02-17.35.23:026][503]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 ../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonJump_End.FBX)
+[2017.10.02-17.35.23:042][503]LogFbx: Loading FBX Scene from ../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonJump_End.FBX
+[2017.10.02-17.35.23:076][503]LogFbx: FBX Scene Loaded Succesfully
+[2017.10.02-17.35.23:089][503]FBXImport: Error: Failed to find any bone hierarchy. Try disabling the "Import As Skeletal" option to import as a rigid mesh.  
+[2017.10.02-17.35.23:089][503]FBXImport: Error: Import failed. 
+[2017.10.02-17.35.23:759][503]LogAssetTools: Warning: Failed to import '../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonJump_End.FBX'. Failed to create asset '/Game/Assets/HeroCharacter/ThirdPersonJump_End'.
+Please see Output Log for details.
+[2017.10.02-17.35.23:780][503]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 ../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonJump_Loop.FBX)
+[2017.10.02-17.35.23:790][503]LogFbx: Loading FBX Scene from ../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonJump_Loop.FBX
+[2017.10.02-17.35.23:823][503]LogFbx: FBX Scene Loaded Succesfully
+[2017.10.02-17.35.23:833][503]FBXImport: Error: Failed to find any bone hierarchy. Try disabling the "Import As Skeletal" option to import as a rigid mesh.  
+[2017.10.02-17.35.23:833][503]FBXImport: Error: Import failed. 
+[2017.10.02-17.35.24:300][503]LogAssetTools: Warning: Failed to import '../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonJump_Loop.FBX'. Failed to create asset '/Game/Assets/HeroCharacter/ThirdPersonJump_Loop'.
+Please see Output Log for details.
+[2017.10.02-17.35.24:315][503]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 ../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonJump_Start.FBX)
+[2017.10.02-17.35.24:329][503]LogFbx: Loading FBX Scene from ../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonJump_Start.FBX
+[2017.10.02-17.35.24:364][503]LogFbx: FBX Scene Loaded Succesfully
+[2017.10.02-17.35.24:372][503]FBXImport: Error: Failed to find any bone hierarchy. Try disabling the "Import As Skeletal" option to import as a rigid mesh.  
+[2017.10.02-17.35.24:372][503]FBXImport: Error: Import failed. 
+[2017.10.02-17.35.24:836][503]LogAssetTools: Warning: Failed to import '../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonJump_Start.FBX'. Failed to create asset '/Game/Assets/HeroCharacter/ThirdPersonJump_Start'.
+Please see Output Log for details.
+[2017.10.02-17.35.24:856][503]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 ../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonRun.FBX)
+[2017.10.02-17.35.24:869][503]LogFbx: Loading FBX Scene from ../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonRun.FBX
+[2017.10.02-17.35.24:901][503]LogFbx: FBX Scene Loaded Succesfully
+[2017.10.02-17.35.24:910][503]FBXImport: Error: Failed to find any bone hierarchy. Try disabling the "Import As Skeletal" option to import as a rigid mesh.  
+[2017.10.02-17.35.24:910][503]FBXImport: Error: Import failed. 
+[2017.10.02-17.35.25:317][503]LogAssetTools: Warning: Failed to import '../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonRun.FBX'. Failed to create asset '/Game/Assets/HeroCharacter/ThirdPersonRun'.
+Please see Output Log for details.
+[2017.10.02-17.35.25:347][503]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 ../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonWalk.FBX)
+[2017.10.02-17.35.25:358][503]LogFbx: Loading FBX Scene from ../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonWalk.FBX
+[2017.10.02-17.35.25:390][503]LogFbx: FBX Scene Loaded Succesfully
+[2017.10.02-17.35.25:400][503]FBXImport: Error: Failed to find any bone hierarchy. Try disabling the "Import As Skeletal" option to import as a rigid mesh.  
+[2017.10.02-17.35.25:400][503]FBXImport: Error: Import failed. 
+[2017.10.02-17.35.25:804][503]LogAssetTools: Warning: Failed to import '../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonWalk.FBX'. Failed to create asset '/Game/Assets/HeroCharacter/ThirdPersonWalk'.
+Please see Output Log for details.
+[2017.10.02-17.35.35:399][ 56]LogSavePackage: Save=26.91ms
+[2017.10.02-17.35.35:399][ 56]LogSavePackage: Moving '../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Saved/SideScroller90465E784DD13CF43ED25987DAD42789.tmp' to '../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Content/Maps/SideScroller.umap'
+[2017.10.02-17.35.35:402][ 56]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Content/Maps/SideScroller.umap
+[2017.10.02-17.35.40:641][351]LogSavePackage: Save=28.03ms
+[2017.10.02-17.35.40:641][351]LogSavePackage: Moving '../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Saved/Fbx_Default_Material_18C97BBA3456EAC969A7E87948554BC4A.tmp' to '../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Content/Assets/HeroCharacter/Fbx_Default_Material_1.uasset'
+[2017.10.02-17.35.40:646][351]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Content/Assets/HeroCharacter/Fbx_Default_Material_1.uasset
+[2017.10.02-17.35.40:750][351]LogSavePackage: Save=85.54ms
+[2017.10.02-17.35.40:750][351]LogSavePackage: Moving '../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Saved/HeroCharacterCCE584C94B87A60BFEB3E68AF01314D1.tmp' to '../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Content/Assets/HeroCharacter/HeroCharacter.uasset'
+[2017.10.02-17.35.40:755][351]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Content/Assets/HeroCharacter/HeroCharacter.uasset
+[2017.10.02-17.35.40:792][351]LogSavePackage: Save=26.65ms
+[2017.10.02-17.35.40:792][351]LogSavePackage: Moving '../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Saved/HeroCharacter_PhysicsAssetE54A5A0B4B1CAC7E7D87CA8E68FC19BA.tmp' to '../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Content/Assets/HeroCharacter/HeroCharacter_PhysicsAsset.uasset'
+[2017.10.02-17.35.40:797][351]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Content/Assets/HeroCharacter/HeroCharacter_PhysicsAsset.uasset
+[2017.10.02-17.35.40:810][351]LogSavePackage: Save=6.45ms
+[2017.10.02-17.35.40:810][351]LogSavePackage: Moving '../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Saved/HeroCharacter_Skeleton94C287CA4990CE92682C6CBF89CE047E.tmp' to '../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Content/Assets/HeroCharacter/HeroCharacter_Skeleton.uasset'
+[2017.10.02-17.35.40:814][351]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Content/Assets/HeroCharacter/HeroCharacter_Skeleton.uasset
+[2017.10.02-17.35.40:853][351]LogSavePackage: Save=13.65ms
+[2017.10.02-17.35.40:853][351]LogSavePackage: Moving '../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Saved/M_UE4Man_BodyBD81A96748EEAB3526CFC9838DFD11FF.tmp' to '../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Content/Assets/HeroCharacter/M_UE4Man_Body.uasset'
+[2017.10.02-17.35.40:860][351]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Content/Assets/HeroCharacter/M_UE4Man_Body.uasset
+[2017.10.02-17.35.58:407][669]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonJump_End.FBX)
+[2017.10.02-17.35.58:416][669]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.10.02-17.35.58:416][669]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.10.02-17.35.58:416][669]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.10.02-17.35.58:416][669]LogFbx: ItemName: NodeAttribute, ItemCount : 68
+[2017.10.02-17.35.58:416][669]LogFbx: ItemName: Model, ItemCount : 68
+[2017.10.02-17.35.58:416][669]LogFbx: ItemName: AnimationCurveNode, ItemCount : 136
+[2017.10.02-17.35.58:416][669]LogFbx: ItemName: AnimationCurve, ItemCount : 408
+[2017.10.02-17.35.58:423][669]LogFbx: Loading FBX Scene from ../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonJump_End.FBX
+[2017.10.02-17.35.58:458][669]LogFbx: FBX Scene Loaded Succesfully
+[2017.10.02-17.36.03:463][669]LogFbx: Loading FBX Scene from ../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonJump_End.FBX
+[2017.10.02-17.36.03:501][669]LogFbx: FBX Scene Loaded Succesfully
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(0) root
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(1) pelvis
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(2) spine_01
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(3) spine_02
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(4) spine_03
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(5) clavicle_l
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(6) upperarm_l
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(7) lowerarm_l
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(8) hand_l
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(9) index_01_l
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(10) index_02_l
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(11) index_03_l
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(12) middle_01_l
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(13) middle_02_l
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(14) middle_03_l
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(15) pinky_01_l
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(16) pinky_02_l
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(17) pinky_03_l
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(18) ring_01_l
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(19) ring_02_l
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(20) ring_03_l
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(21) thumb_01_l
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(22) thumb_02_l
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(23) thumb_03_l
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(26) clavicle_r
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(27) upperarm_r
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(28) lowerarm_r
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(29) hand_r
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(30) index_01_r
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(31) index_02_r
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(32) index_03_r
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(33) middle_01_r
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(34) middle_02_r
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(35) middle_03_r
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(36) pinky_01_r
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(37) pinky_02_r
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(38) pinky_03_r
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(39) ring_01_r
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(40) ring_02_r
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(41) ring_03_r
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(42) thumb_01_r
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(43) thumb_02_r
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(44) thumb_03_r
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2017.10.02-17.36.03:514][669]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2017.10.02-17.36.03:515][669]LogFbx: SortedLinks :(47) neck_01
+[2017.10.02-17.36.03:515][669]LogFbx: SortedLinks :(48) head
+[2017.10.02-17.36.03:515][669]LogFbx: SortedLinks :(49) thigh_l
+[2017.10.02-17.36.03:515][669]LogFbx: SortedLinks :(50) calf_l
+[2017.10.02-17.36.03:515][669]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2017.10.02-17.36.03:515][669]LogFbx: SortedLinks :(52) foot_l
+[2017.10.02-17.36.03:515][669]LogFbx: SortedLinks :(53) ball_l
+[2017.10.02-17.36.03:515][669]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2017.10.02-17.36.03:515][669]LogFbx: SortedLinks :(55) thigh_r
+[2017.10.02-17.36.03:515][669]LogFbx: SortedLinks :(56) calf_r
+[2017.10.02-17.36.03:515][669]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2017.10.02-17.36.03:515][669]LogFbx: SortedLinks :(58) foot_r
+[2017.10.02-17.36.03:515][669]LogFbx: SortedLinks :(59) ball_r
+[2017.10.02-17.36.03:515][669]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2017.10.02-17.36.03:515][669]LogFbx: SortedLinks :(61) ik_foot_root
+[2017.10.02-17.36.03:515][669]LogFbx: SortedLinks :(62) ik_foot_l
+[2017.10.02-17.36.03:515][669]LogFbx: SortedLinks :(63) ik_foot_r
+[2017.10.02-17.36.03:515][669]LogFbx: SortedLinks :(64) ik_hand_root
+[2017.10.02-17.36.03:515][669]LogFbx: SortedLinks :(65) ik_hand_gun
+[2017.10.02-17.36.03:515][669]LogFbx: SortedLinks :(66) ik_hand_l
+[2017.10.02-17.36.03:515][669]LogFbx: SortedLinks :(67) ik_hand_r
+[2017.10.02-17.36.03:523][669]LogFbx: Parsing AnimStack Unreal Take
+[2017.10.02-17.36.03:554][669]LogLinker: Can't find file '/Game/Assets/HeroCharacter/ThirdPersonJump_End'
+[2017.10.02-17.36.03:554][669]LogLinker: Can't find file '/Game/Assets/HeroCharacter/ThirdPersonJump_End'
+[2017.10.02-17.36.03:757][669]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/HeroCharacter/ThirdPersonJump_End.ThirdPersonJump_End
+[2017.10.02-17.36.03:828][669]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonJump_Loop.FBX)
+[2017.10.02-17.36.03:840][669]LogFbx: Loading FBX Scene from ../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonJump_Loop.FBX
+[2017.10.02-17.36.03:873][669]LogFbx: FBX Scene Loaded Succesfully
+[2017.10.02-17.36.03:874][669]LogFbx: SortedLinks :(0) root
+[2017.10.02-17.36.03:874][669]LogFbx: SortedLinks :(1) pelvis
+[2017.10.02-17.36.03:874][669]LogFbx: SortedLinks :(2) spine_01
+[2017.10.02-17.36.03:874][669]LogFbx: SortedLinks :(3) spine_02
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(4) spine_03
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(5) clavicle_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(6) upperarm_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(7) lowerarm_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(8) hand_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(9) index_01_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(10) index_02_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(11) index_03_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(12) middle_01_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(13) middle_02_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(14) middle_03_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(15) pinky_01_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(16) pinky_02_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(17) pinky_03_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(18) ring_01_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(19) ring_02_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(20) ring_03_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(21) thumb_01_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(22) thumb_02_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(23) thumb_03_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(26) clavicle_r
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(27) upperarm_r
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(28) lowerarm_r
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(29) hand_r
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(30) index_01_r
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(31) index_02_r
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(32) index_03_r
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(33) middle_01_r
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(34) middle_02_r
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(35) middle_03_r
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(36) pinky_01_r
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(37) pinky_02_r
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(38) pinky_03_r
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(39) ring_01_r
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(40) ring_02_r
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(41) ring_03_r
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(42) thumb_01_r
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(43) thumb_02_r
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(44) thumb_03_r
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(47) neck_01
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(48) head
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(49) thigh_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(50) calf_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(52) foot_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(53) ball_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(55) thigh_r
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(56) calf_r
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(58) foot_r
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(59) ball_r
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(61) ik_foot_root
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(62) ik_foot_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(63) ik_foot_r
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(64) ik_hand_root
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(65) ik_hand_gun
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(66) ik_hand_l
+[2017.10.02-17.36.03:875][669]LogFbx: SortedLinks :(67) ik_hand_r
+[2017.10.02-17.36.03:878][669]LogFbx: Parsing AnimStack Unreal Take
+[2017.10.02-17.36.03:880][669]LogLinker: Can't find file '/Game/Assets/HeroCharacter/ThirdPersonJump_Loop'
+[2017.10.02-17.36.03:881][669]LogLinker: Can't find file '/Game/Assets/HeroCharacter/ThirdPersonJump_Loop'
+[2017.10.02-17.36.04:056][669]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/HeroCharacter/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2017.10.02-17.36.04:072][669]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonJump_Start.FBX)
+[2017.10.02-17.36.04:083][669]LogFbx: Loading FBX Scene from ../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonJump_Start.FBX
+[2017.10.02-17.36.04:115][669]LogFbx: FBX Scene Loaded Succesfully
+[2017.10.02-17.36.04:118][669]LogFbx: SortedLinks :(0) root
+[2017.10.02-17.36.04:118][669]LogFbx: SortedLinks :(1) pelvis
+[2017.10.02-17.36.04:118][669]LogFbx: SortedLinks :(2) spine_01
+[2017.10.02-17.36.04:118][669]LogFbx: SortedLinks :(3) spine_02
+[2017.10.02-17.36.04:118][669]LogFbx: SortedLinks :(4) spine_03
+[2017.10.02-17.36.04:118][669]LogFbx: SortedLinks :(5) clavicle_l
+[2017.10.02-17.36.04:118][669]LogFbx: SortedLinks :(6) upperarm_l
+[2017.10.02-17.36.04:118][669]LogFbx: SortedLinks :(7) lowerarm_l
+[2017.10.02-17.36.04:118][669]LogFbx: SortedLinks :(8) hand_l
+[2017.10.02-17.36.04:118][669]LogFbx: SortedLinks :(9) index_01_l
+[2017.10.02-17.36.04:118][669]LogFbx: SortedLinks :(10) index_02_l
+[2017.10.02-17.36.04:118][669]LogFbx: SortedLinks :(11) index_03_l
+[2017.10.02-17.36.04:118][669]LogFbx: SortedLinks :(12) middle_01_l
+[2017.10.02-17.36.04:118][669]LogFbx: SortedLinks :(13) middle_02_l
+[2017.10.02-17.36.04:118][669]LogFbx: SortedLinks :(14) middle_03_l
+[2017.10.02-17.36.04:118][669]LogFbx: SortedLinks :(15) pinky_01_l
+[2017.10.02-17.36.04:118][669]LogFbx: SortedLinks :(16) pinky_02_l
+[2017.10.02-17.36.04:118][669]LogFbx: SortedLinks :(17) pinky_03_l
+[2017.10.02-17.36.04:118][669]LogFbx: SortedLinks :(18) ring_01_l
+[2017.10.02-17.36.04:118][669]LogFbx: SortedLinks :(19) ring_02_l
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(20) ring_03_l
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(21) thumb_01_l
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(22) thumb_02_l
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(23) thumb_03_l
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(26) clavicle_r
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(27) upperarm_r
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(28) lowerarm_r
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(29) hand_r
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(30) index_01_r
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(31) index_02_r
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(32) index_03_r
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(33) middle_01_r
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(34) middle_02_r
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(35) middle_03_r
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(36) pinky_01_r
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(37) pinky_02_r
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(38) pinky_03_r
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(39) ring_01_r
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(40) ring_02_r
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(41) ring_03_r
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(42) thumb_01_r
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(43) thumb_02_r
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(44) thumb_03_r
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(47) neck_01
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(48) head
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(49) thigh_l
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(50) calf_l
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(52) foot_l
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(53) ball_l
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(55) thigh_r
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(56) calf_r
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(58) foot_r
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(59) ball_r
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(61) ik_foot_root
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(62) ik_foot_l
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(63) ik_foot_r
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(64) ik_hand_root
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(65) ik_hand_gun
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(66) ik_hand_l
+[2017.10.02-17.36.04:119][669]LogFbx: SortedLinks :(67) ik_hand_r
+[2017.10.02-17.36.04:120][669]LogFbx: Parsing AnimStack Unreal Take
+[2017.10.02-17.36.04:123][669]LogLinker: Can't find file '/Game/Assets/HeroCharacter/ThirdPersonJump_Start'
+[2017.10.02-17.36.04:123][669]LogLinker: Can't find file '/Game/Assets/HeroCharacter/ThirdPersonJump_Start'
+[2017.10.02-17.36.04:278][669]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/HeroCharacter/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2017.10.02-17.36.04:294][669]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonRun.FBX)
+[2017.10.02-17.36.04:307][669]LogFbx: Loading FBX Scene from ../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonRun.FBX
+[2017.10.02-17.36.04:342][669]LogFbx: FBX Scene Loaded Succesfully
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(0) root
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(1) pelvis
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(2) spine_01
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(3) spine_02
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(4) spine_03
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(5) clavicle_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(6) upperarm_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(7) lowerarm_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(8) hand_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(9) index_01_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(10) index_02_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(11) index_03_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(12) middle_01_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(13) middle_02_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(14) middle_03_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(15) pinky_01_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(16) pinky_02_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(17) pinky_03_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(18) ring_01_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(19) ring_02_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(20) ring_03_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(21) thumb_01_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(22) thumb_02_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(23) thumb_03_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(26) clavicle_r
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(27) upperarm_r
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(28) lowerarm_r
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(29) hand_r
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(30) index_01_r
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(31) index_02_r
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(32) index_03_r
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(33) middle_01_r
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(34) middle_02_r
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(35) middle_03_r
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(36) pinky_01_r
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(37) pinky_02_r
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(38) pinky_03_r
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(39) ring_01_r
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(40) ring_02_r
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(41) ring_03_r
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(42) thumb_01_r
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(43) thumb_02_r
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(44) thumb_03_r
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(47) neck_01
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(48) head
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(49) thigh_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(50) calf_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(52) foot_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(53) ball_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(55) thigh_r
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(56) calf_r
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(58) foot_r
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(59) ball_r
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(61) ik_foot_root
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(62) ik_foot_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(63) ik_foot_r
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(64) ik_hand_root
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(65) ik_hand_gun
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(66) ik_hand_l
+[2017.10.02-17.36.04:344][669]LogFbx: SortedLinks :(67) ik_hand_r
+[2017.10.02-17.36.04:345][669]LogFbx: Parsing AnimStack Unreal Take
+[2017.10.02-17.36.04:350][669]LogLinker: Can't find file '/Game/Assets/HeroCharacter/ThirdPersonRun'
+[2017.10.02-17.36.04:351][669]LogLinker: Can't find file '/Game/Assets/HeroCharacter/ThirdPersonRun'
+[2017.10.02-17.36.04:525][669]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/HeroCharacter/ThirdPersonRun.ThirdPersonRun
+[2017.10.02-17.36.04:541][669]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonWalk.FBX)
+[2017.10.02-17.36.04:553][669]LogFbx: Loading FBX Scene from ../../../../../../Users/John/Documents/School/Semester 5/Console Dev/ThridPersonAssets/ThirdPersonWalk.FBX
+[2017.10.02-17.36.04:585][669]LogFbx: FBX Scene Loaded Succesfully
+[2017.10.02-17.36.04:587][669]LogFbx: SortedLinks :(0) root
+[2017.10.02-17.36.04:587][669]LogFbx: SortedLinks :(1) pelvis
+[2017.10.02-17.36.04:587][669]LogFbx: SortedLinks :(2) spine_01
+[2017.10.02-17.36.04:587][669]LogFbx: SortedLinks :(3) spine_02
+[2017.10.02-17.36.04:587][669]LogFbx: SortedLinks :(4) spine_03
+[2017.10.02-17.36.04:587][669]LogFbx: SortedLinks :(5) clavicle_l
+[2017.10.02-17.36.04:587][669]LogFbx: SortedLinks :(6) upperarm_l
+[2017.10.02-17.36.04:587][669]LogFbx: SortedLinks :(7) lowerarm_l
+[2017.10.02-17.36.04:587][669]LogFbx: SortedLinks :(8) hand_l
+[2017.10.02-17.36.04:587][669]LogFbx: SortedLinks :(9) index_01_l
+[2017.10.02-17.36.04:587][669]LogFbx: SortedLinks :(10) index_02_l
+[2017.10.02-17.36.04:587][669]LogFbx: SortedLinks :(11) index_03_l
+[2017.10.02-17.36.04:587][669]LogFbx: SortedLinks :(12) middle_01_l
+[2017.10.02-17.36.04:587][669]LogFbx: SortedLinks :(13) middle_02_l
+[2017.10.02-17.36.04:587][669]LogFbx: SortedLinks :(14) middle_03_l
+[2017.10.02-17.36.04:587][669]LogFbx: SortedLinks :(15) pinky_01_l
+[2017.10.02-17.36.04:587][669]LogFbx: SortedLinks :(16) pinky_02_l
+[2017.10.02-17.36.04:587][669]LogFbx: SortedLinks :(17) pinky_03_l
+[2017.10.02-17.36.04:587][669]LogFbx: SortedLinks :(18) ring_01_l
+[2017.10.02-17.36.04:587][669]LogFbx: SortedLinks :(19) ring_02_l
+[2017.10.02-17.36.04:587][669]LogFbx: SortedLinks :(20) ring_03_l
+[2017.10.02-17.36.04:587][669]LogFbx: SortedLinks :(21) thumb_01_l
+[2017.10.02-17.36.04:587][669]LogFbx: SortedLinks :(22) thumb_02_l
+[2017.10.02-17.36.04:587][669]LogFbx: SortedLinks :(23) thumb_03_l
+[2017.10.02-17.36.04:587][669]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2017.10.02-17.36.04:587][669]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2017.10.02-17.36.04:587][669]LogFbx: SortedLinks :(26) clavicle_r
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(27) upperarm_r
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(28) lowerarm_r
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(29) hand_r
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(30) index_01_r
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(31) index_02_r
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(32) index_03_r
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(33) middle_01_r
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(34) middle_02_r
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(35) middle_03_r
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(36) pinky_01_r
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(37) pinky_02_r
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(38) pinky_03_r
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(39) ring_01_r
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(40) ring_02_r
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(41) ring_03_r
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(42) thumb_01_r
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(43) thumb_02_r
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(44) thumb_03_r
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(47) neck_01
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(48) head
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(49) thigh_l
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(50) calf_l
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(52) foot_l
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(53) ball_l
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(55) thigh_r
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(56) calf_r
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(58) foot_r
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(59) ball_r
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(61) ik_foot_root
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(62) ik_foot_l
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(63) ik_foot_r
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(64) ik_hand_root
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(65) ik_hand_gun
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(66) ik_hand_l
+[2017.10.02-17.36.04:588][669]LogFbx: SortedLinks :(67) ik_hand_r
+[2017.10.02-17.36.04:590][669]LogFbx: Parsing AnimStack Unreal Take
+[2017.10.02-17.36.04:593][669]LogLinker: Can't find file '/Game/Assets/HeroCharacter/ThirdPersonWalk'
+[2017.10.02-17.36.04:593][669]LogLinker: Can't find file '/Game/Assets/HeroCharacter/ThirdPersonWalk'
+[2017.10.02-17.36.04:823][669]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/HeroCharacter/ThirdPersonWalk.ThirdPersonWalk
+[2017.10.02-17.36.06:642][757]LogSavePackage: Save=23.75ms
+[2017.10.02-17.36.06:642][757]LogSavePackage: Moving '../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Saved/ThirdPersonJump_EndE4427FF64D737457959968A5C796BEB4.tmp' to '../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Content/Assets/HeroCharacter/ThirdPersonJump_End.uasset'
+[2017.10.02-17.36.06:645][757]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Content/Assets/HeroCharacter/ThirdPersonJump_End.uasset
+[2017.10.02-17.36.06:685][757]LogSavePackage: Save=16.03ms
+[2017.10.02-17.36.06:685][757]LogSavePackage: Moving '../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Saved/ThirdPersonJump_LoopE6F2278E48EA095C63E5AD8045F2102F.tmp' to '../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Content/Assets/HeroCharacter/ThirdPersonJump_Loop.uasset'
+[2017.10.02-17.36.06:689][757]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Content/Assets/HeroCharacter/ThirdPersonJump_Loop.uasset
+[2017.10.02-17.36.06:721][757]LogSavePackage: Save=15.09ms
+[2017.10.02-17.36.06:721][757]LogSavePackage: Moving '../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Saved/ThirdPersonJump_Start386606BB450066CB4D93C58B36F6DBFF.tmp' to '../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Content/Assets/HeroCharacter/ThirdPersonJump_Start.uasset'
+[2017.10.02-17.36.06:724][757]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Content/Assets/HeroCharacter/ThirdPersonJump_Start.uasset
+[2017.10.02-17.36.06:758][757]LogSavePackage: Save=14.15ms
+[2017.10.02-17.36.06:758][757]LogSavePackage: Moving '../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Saved/ThirdPersonRun26E3AA0C4536AA372EC7D8B4EFF6A110.tmp' to '../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Content/Assets/HeroCharacter/ThirdPersonRun.uasset'
+[2017.10.02-17.36.06:761][757]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Content/Assets/HeroCharacter/ThirdPersonRun.uasset
+[2017.10.02-17.36.06:800][757]LogSavePackage: Save=15.70ms
+[2017.10.02-17.36.06:800][757]LogSavePackage: Moving '../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Saved/ThirdPersonWalk3ACF17054F71726B214169A3A84D3317.tmp' to '../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Content/Assets/HeroCharacter/ThirdPersonWalk.uasset'
+[2017.10.02-17.36.06:803][757]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Content/Assets/HeroCharacter/ThirdPersonWalk.uasset
+[2017.10.02-17.56.19:026][586]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.02-17.56.19:481][587]Cmd: QUIT_EDITOR
+[2017.10.02-17.56.19:903][587]LogExit: Preparing to exit.
+[2017.10.02-17.56.20:976][587]LogDirectoryWatcher: A directory notification for 'C:/Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Content/' was aborted.
+[2017.10.02-17.56.21:102][587]LogExit: Editor shut down
+[2017.10.02-17.56.21:130][587]LogExit: Transaction tracking system shut down
+[2017.10.02-17.56.21:372][587]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.10.02-17.56.21:372][587]LogDirectoryWatcher: A directory notification for '../../../../../../Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Content/' was aborted.
+[2017.10.02-17.56.21:372][587]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.10.02-17.56.21:372][587]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.10.02-17.56.21:372][587]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.10.02-17.56.23:471][587]LogExit: Object subsystem successfully closed.
+[2017.10.02-17.56.23:628][587]LogD3D11RHI: Shutdown
+[2017.10.02-17.56.23:653][587]LogD3D11RHI: CleanupD3DDevice
+[2017.10.02-17.56.23:974][587]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.10.02-17.56.25:334][587]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (532)
+[2017.10.02-17.56.25:334][587]LogModuleManager: Shutting down and abandoning module SceneOutliner (530)
+[2017.10.02-17.56.25:335][587]LogModuleManager: Shutting down and abandoning module AddContentDialog (528)
+[2017.10.02-17.56.25:358][587]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.10.02-17.56.25:364][587]LogModuleManager: Shutting down and abandoning module WidgetCarousel (527)
+[2017.10.02-17.56.25:364][587]LogModuleManager: Shutting down and abandoning module EditorWidgets (524)
+[2017.10.02-17.56.25:365][587]LogModuleManager: Shutting down and abandoning module CollectionManager (522)
+[2017.10.02-17.56.25:377][587]LogDirectoryWatcher: A directory notification for 'C:/Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Content/Collections/' was aborted.
+[2017.10.02-17.56.25:377][587]LogDirectoryWatcher: A directory notification for 'C:/Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Content/Developers/John/Collections/' was aborted.
+[2017.10.02-17.56.25:377][587]LogDirectoryWatcher: A directory notification for 'C:/Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Saved/Collections/' was aborted.
+[2017.10.02-17.56.25:377][587]LogModuleManager: Shutting down and abandoning module StatsViewer (520)
+[2017.10.02-17.56.25:387][587]LogModuleManager: Shutting down and abandoning module FoliageEdit (518)
+[2017.10.02-17.56.25:387][587]LogModuleManager: Shutting down and abandoning module LandscapeEditor (516)
+[2017.10.02-17.56.25:407][587]LogModuleManager: Shutting down and abandoning module MeshPaintMode (514)
+[2017.10.02-17.56.25:407][587]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (512)
+[2017.10.02-17.56.25:407][587]LogModuleManager: Shutting down and abandoning module ActorPickerMode (510)
+[2017.10.02-17.56.25:407][587]LogModuleManager: Shutting down and abandoning module GeometryMode (508)
+[2017.10.02-17.56.25:407][587]LogModuleManager: Shutting down and abandoning module TextureAlignMode (506)
+[2017.10.02-17.56.25:407][587]LogModuleManager: Shutting down and abandoning module BspMode (504)
+[2017.10.02-17.56.25:407][587]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (502)
+[2017.10.02-17.56.25:407][587]LogModuleManager: Shutting down and abandoning module HardwareSurvey (500)
+[2017.10.02-17.56.25:407][587]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (498)
+[2017.10.02-17.56.25:407][587]LogModuleManager: Shutting down and abandoning module AutomationWorker (496)
+[2017.10.02-17.56.25:408][587]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (494)
+[2017.10.02-17.56.25:408][587]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (492)
+[2017.10.02-17.56.25:471][587]LogModuleManager: Shutting down and abandoning module PlacementMode (491)
+[2017.10.02-17.56.25:471][587]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (488)
+[2017.10.02-17.56.25:471][587]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (486)
+[2017.10.02-17.56.25:471][587]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (484)
+[2017.10.02-17.56.25:471][587]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (482)
+[2017.10.02-17.56.25:471][587]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (480)
+[2017.10.02-17.56.25:471][587]LogModuleManager: Shutting down and abandoning module Media (479)
+[2017.10.02-17.56.25:471][587]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (476)
+[2017.10.02-17.56.25:471][587]LogModuleManager: Shutting down and abandoning module CharacterAI (474)
+[2017.10.02-17.56.25:471][587]LogModuleManager: Shutting down and abandoning module AudioCapture (472)
+[2017.10.02-17.56.25:471][587]LogModuleManager: Shutting down and abandoning module SequenceRecorder (471)
+[2017.10.02-17.56.25:477][587]LogModuleManager: Shutting down and abandoning module SmartSnapping (468)
+[2017.10.02-17.56.25:477][587]LogModuleManager: Shutting down and abandoning module SessionServices (466)
+[2017.10.02-17.56.25:477][587]LogModuleManager: Shutting down and abandoning module ViewportSnapping (464)
+[2017.10.02-17.56.25:477][587]LogModuleManager: Shutting down and abandoning module ViewportInteraction (462)
+[2017.10.02-17.56.25:477][587]LogModuleManager: Shutting down and abandoning module ClothPainter (460)
+[2017.10.02-17.56.25:498][587]LogModuleManager: Shutting down and abandoning module LogVisualizer (458)
+[2017.10.02-17.56.25:521][587]LogModuleManager: Shutting down and abandoning module IntroTutorials (456)
+[2017.10.02-17.56.25:557][587]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (455)
+[2017.10.02-17.56.25:642][587]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (452)
+[2017.10.02-17.56.25:648][587]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (450)
+[2017.10.02-17.56.25:648][587]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (448)
+[2017.10.02-17.56.25:648][587]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (447)
+[2017.10.02-17.56.26:077][587]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (444)
+[2017.10.02-17.56.26:077][587]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (442)
+[2017.10.02-17.56.26:077][587]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (440)
+[2017.10.02-17.56.26:077][587]LogModuleManager: Shutting down and abandoning module InputBindingEditor (438)
+[2017.10.02-17.56.26:091][587]LogModuleManager: Shutting down and abandoning module MergeActors (436)
+[2017.10.02-17.56.26:099][587]LogModuleManager: Shutting down and abandoning module SizeMap (434)
+[2017.10.02-17.56.26:099][587]LogModuleManager: Shutting down and abandoning module TreeMap (432)
+[2017.10.02-17.56.26:109][587]LogModuleManager: Shutting down and abandoning module ReferenceViewer (430)
+[2017.10.02-17.56.26:109][587]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (428)
+[2017.10.02-17.56.26:118][587]LogModuleManager: Shutting down and abandoning module LocalizationService (427)
+[2017.10.02-17.56.26:120][587]LogModuleManager: Shutting down and abandoning module HardwareTargeting (424)
+[2017.10.02-17.56.26:120][587]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (422)
+[2017.10.02-17.56.26:136][587]LogModuleManager: Shutting down and abandoning module UndoHistory (420)
+[2017.10.02-17.56.26:136][587]LogModuleManager: Shutting down and abandoning module XmlParser (418)
+[2017.10.02-17.56.26:137][587]LogModuleManager: Shutting down and abandoning module Blutility (416)
+[2017.10.02-17.56.26:137][587]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (414)
+[2017.10.02-17.56.26:137][587]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (413)
+[2017.10.02-17.56.26:137][587]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (410)
+[2017.10.02-17.56.26:138][587]LogModuleManager: Shutting down and abandoning module SettingsEditor (408)
+[2017.10.02-17.56.26:149][587]LogModuleManager: Shutting down and abandoning module ProjectLauncher (406)
+[2017.10.02-17.56.26:169][587]LogModuleManager: Shutting down and abandoning module SessionFrontend (404)
+[2017.10.02-17.56.26:186][587]LogModuleManager: Shutting down and abandoning module ProfilerClient (402)
+[2017.10.02-17.56.26:196][587]LogModuleManager: Shutting down and abandoning module DeviceManager (400)
+[2017.10.02-17.56.26:214][587]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (399)
+[2017.10.02-17.56.26:277][587]LogModuleManager: Shutting down and abandoning module AutomationController (396)
+[2017.10.02-17.56.26:279][587]LogModuleManager: Shutting down and abandoning module AutomationWindow (394)
+[2017.10.02-17.56.26:302][587]LogModuleManager: Shutting down and abandoning module Layers (392)
+[2017.10.02-17.56.26:371][587]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (390)
+[2017.10.02-17.56.26:371][587]LogModuleManager: Shutting down and abandoning module DetailCustomizations (388)
+[2017.10.02-17.56.26:372][587]LogModuleManager: Shutting down and abandoning module PackagesDialog (386)
+[2017.10.02-17.56.26:372][587]LogModuleManager: Shutting down and abandoning module Persona (384)
+[2017.10.02-17.56.26:433][587]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (383)
+[2017.10.02-17.56.26:433][587]LogModuleManager: Shutting down and abandoning module AnimGraph (381)
+[2017.10.02-17.56.26:439][587]LogModuleManager: Shutting down and abandoning module Kismet (378)
+[2017.10.02-17.56.26:445][587]LogModuleManager: Shutting down and abandoning module ClassViewer (376)
+[2017.10.02-17.56.26:445][587]LogModuleManager: Shutting down and abandoning module Toolbox (374)
+[2017.10.02-17.56.26:445][587]LogModuleManager: Shutting down and abandoning module ModuleUI (372)
+[2017.10.02-17.56.26:452][587]LogModuleManager: Shutting down and abandoning module MovieSceneTools (370)
+[2017.10.02-17.56.26:478][587]LogModuleManager: Shutting down and abandoning module OutputLog (368)
+[2017.10.02-17.56.26:487][587]LogModuleManager: Shutting down and abandoning module GammaUI (366)
+[2017.10.02-17.56.26:488][587]LogModuleManager: Shutting down and abandoning module Documentation (364)
+[2017.10.02-17.56.26:488][587]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (362)
+[2017.10.02-17.56.26:488][587]LogModuleManager: Shutting down and abandoning module MovieScene (360)
+[2017.10.02-17.56.26:488][587]LogModuleManager: Shutting down and abandoning module Niagara (358)
+[2017.10.02-17.56.26:488][587]LogModuleManager: Shutting down and abandoning module NiagaraEditor (357)
+[2017.10.02-17.56.26:531][587]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (354)
+[2017.10.02-17.56.26:531][587]LogModuleManager: Shutting down and abandoning module LauncherPlatform (352)
+[2017.10.02-17.56.26:531][587]LogModuleManager: Shutting down and abandoning module AnalyticsET (350)
+[2017.10.02-17.56.26:531][587]LogModuleManager: Shutting down and abandoning module PortalServices (348)
+[2017.10.02-17.56.26:531][587]LogModuleManager: Shutting down and abandoning module PortalRpc (346)
+[2017.10.02-17.56.26:531][587]LogModuleManager: Shutting down and abandoning module MessagingRpc (344)
+[2017.10.02-17.56.26:531][587]LogModuleManager: Shutting down and abandoning module AIModule (342)
+[2017.10.02-17.56.26:542][587]LogModuleManager: Shutting down and abandoning module GameplayDebugger (341)
+[2017.10.02-17.56.26:543][587]LogModuleManager: Shutting down and abandoning module AITestSuite (339)
+[2017.10.02-17.56.26:556][587]LogModuleManager: Shutting down and abandoning module ProfilerService (336)
+[2017.10.02-17.56.26:676][587]LogModuleManager: Shutting down and abandoning module TaskGraph (334)
+[2017.10.02-17.56.26:750][587]LogModuleManager: Shutting down and abandoning module SteamVRController (332)
+[2017.10.02-17.56.26:750][587]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (330)
+[2017.10.02-17.56.26:750][587]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (328)
+[2017.10.02-17.56.26:750][587]LogModuleManager: Shutting down and abandoning module OculusInput (326)
+[2017.10.02-17.56.26:750][587]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (324)
+[2017.10.02-17.56.26:751][587]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (322)
+[2017.10.02-17.56.26:751][587]LogModuleManager: Shutting down and abandoning module CableComponent (320)
+[2017.10.02-17.56.26:751][587]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (318)
+[2017.10.02-17.56.26:751][587]LogModuleManager: Shutting down and abandoning module AndroidPermission (316)
+[2017.10.02-17.56.26:751][587]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (312)
+[2017.10.02-17.56.26:798][587]LogModuleManager: Shutting down and abandoning module HTML5Networking (310)
+[2017.10.02-17.56.26:798][587]LogModuleManager: Shutting down and abandoning module AlembicImporter (308)
+[2017.10.02-17.56.26:813][587]LogModuleManager: Shutting down and abandoning module AlembicLibrary (307)
+[2017.10.02-17.56.26:814][587]LogModuleManager: Shutting down and abandoning module GeometryCache (306)
+[2017.10.02-17.56.26:814][587]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (305)
+[2017.10.02-17.56.26:814][587]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (300)
+[2017.10.02-17.56.26:814][587]LogModuleManager: Shutting down and abandoning module PluginBrowser (298)
+[2017.10.02-17.56.26:844][587]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (296)
+[2017.10.02-17.56.26:856][587]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (294)
+[2017.10.02-17.56.26:856][587]LogModuleManager: Shutting down and abandoning module UObjectPlugin (292)
+[2017.10.02-17.56.26:856][587]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (290)
+[2017.10.02-17.56.26:862][587]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (288)
+[2017.10.02-17.56.26:875][587]LogModuleManager: Shutting down and abandoning module GitSourceControl (286)
+[2017.10.02-17.56.26:882][587]LogModuleManager: Shutting down and abandoning module SourceControl (285)
+[2017.10.02-17.56.26:897][587]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (282)
+[2017.10.02-17.56.26:897][587]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (280)
+[2017.10.02-17.56.26:897][587]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (278)
+[2017.10.02-17.56.26:897][587]LogModuleManager: Shutting down and abandoning module Paper2DEditor (276)
+[2017.10.02-17.56.26:909][587]LogModuleManager: Shutting down and abandoning module MeshPaint (275)
+[2017.10.02-17.56.26:922][587]LogModuleManager: Shutting down and abandoning module LevelEditor (273)
+[2017.10.02-17.56.26:938][587]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (272)
+[2017.10.02-17.56.26:942][587]LogModuleManager: Shutting down and abandoning module MainFrame (270)
+[2017.10.02-17.56.26:942][587]LogModuleManager: Shutting down and abandoning module HotReload (269)
+[2017.10.02-17.56.26:943][587]LogDirectoryWatcher: A directory notification for 'C:/Users/John/Documents/GitRepos/ConsoleDev/Lab4/MyLab4/Binaries/Win64' was aborted.
+[2017.10.02-17.56.26:953][587]LogModuleManager: Shutting down and abandoning module MyLab4 (264)
+[2017.10.02-17.56.26:953][587]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (262)
+[2017.10.02-17.56.26:953][587]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (260)
+[2017.10.02-17.56.26:953][587]LogModuleManager: Shutting down and abandoning module PhysXVehicles (258)
+[2017.10.02-17.56.26:953][587]LogModuleManager: Shutting down and abandoning module OculusEditor (256)
+[2017.10.02-17.56.26:953][587]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (254)
+[2017.10.02-17.56.26:953][587]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (252)
+[2017.10.02-17.56.26:953][587]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (250)
+[2017.10.02-17.56.26:959][587]LogModuleManager: Shutting down and abandoning module UdpMessaging (248)
+[2017.10.02-17.56.27:060][587]LogModuleManager: Shutting down and abandoning module TcpMessaging (246)
+[2017.10.02-17.56.27:162][587]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (244)
+[2017.10.02-17.56.27:174][587]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (242)
+[2017.10.02-17.56.27:174][587]LogModuleManager: Shutting down and abandoning module FacialAnimation (240)
+[2017.10.02-17.56.27:174][587]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (238)
+[2017.10.02-17.56.27:188][587]LogModuleManager: Shutting down and abandoning module GraphEditor (237)
+[2017.10.02-17.56.27:248][587]LogModuleManager: Shutting down and abandoning module ContentBrowser (235)
+[2017.10.02-17.56.27:249][587]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (232)
+[2017.10.02-17.56.27:249][587]LogModuleManager: Shutting down and abandoning module Paper2D (230)
+[2017.10.02-17.56.27:264][587]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (228)
+[2017.10.02-17.56.27:269][587]LogModuleManager: Shutting down and abandoning module WmfMedia (226)
+[2017.10.02-17.56.27:270][587]LogModuleManager: Shutting down and abandoning module PacketHandler (224)
+[2017.10.02-17.56.27:271][587]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (222)
+[2017.10.02-17.56.27:271][587]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (220)
+[2017.10.02-17.56.27:282][587]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.10.02-17.56.27:282][587]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.10.02-17.56.27:282][587]LogModuleManager: Shutting down and abandoning module MediaAssets (214)
+[2017.10.02-17.56.27:282][587]LogModuleManager: Shutting down and abandoning module VREditor (212)
+[2017.10.02-17.56.27:297][587]LogModuleManager: Shutting down and abandoning module StringTableEditor (210)
+[2017.10.02-17.56.27:298][587]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (208)
+[2017.10.02-17.56.27:298][587]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (206)
+[2017.10.02-17.56.27:337][587]LogModuleManager: Shutting down and abandoning module FunctionalTesting (204)
+[2017.10.02-17.56.27:337][587]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (202)
+[2017.10.02-17.56.27:349][587]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (201)
+[2017.10.02-17.56.27:349][587]LogModuleManager: Shutting down and abandoning module UMG (198)
+[2017.10.02-17.56.27:374][587]LogModuleManager: Shutting down and abandoning module UMGEditor (197)
+[2017.10.02-17.56.27:422][587]LogModuleManager: Shutting down and abandoning module Sequencer (196)
+[2017.10.02-17.56.27:446][587]LogModuleManager: Shutting down and abandoning module MessageLog (193)
+[2017.10.02-17.56.27:446][587]LogModuleManager: Shutting down and abandoning module SlateReflector (188)
+[2017.10.02-17.56.27:465][587]LogModuleManager: Shutting down and abandoning module Slate (186)
+[2017.10.02-17.56.27:465][587]LogModuleManager: Shutting down and abandoning module EditorStyle (184)
+[2017.10.02-17.56.27:483][587]LogModuleManager: Shutting down and abandoning module MRMesh (182)
+[2017.10.02-17.56.27:483][587]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (180)
+[2017.10.02-17.56.27:483][587]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (178)
+[2017.10.02-17.56.27:483][587]LogModuleManager: Shutting down and abandoning module XAudio2 (176)
+[2017.10.02-17.56.27:483][587]LogModuleManager: Shutting down and abandoning module Networking (174)
+[2017.10.02-17.56.27:483][587]LogModuleManager: Shutting down and abandoning module Core (170)
+[2017.10.02-17.56.27:483][587]LogModuleManager: Shutting down and abandoning module KismetCompiler (166)
+[2017.10.02-17.56.27:484][587]LogModuleManager: Shutting down and abandoning module LevelSequence (164)
+[2017.10.02-17.56.27:484][587]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.10.02-17.56.27:486][587]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.10.02-17.56.27:496][587]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.10.02-17.56.27:496][587]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.10.02-17.56.27:506][587]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.10.02-17.56.27:506][587]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.10.02-17.56.27:521][587]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.10.02-17.56.27:522][587]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (148)
+[2017.10.02-17.56.27:528][587]LogModuleManager: Shutting down and abandoning module DerivedDataCache (146)
+[2017.10.02-17.56.27:622][587]LogDerivedDataCache: Shutdown
+[2017.10.02-17.56.27:622][587]LogModuleManager: Shutting down and abandoning module TargetPlatform (144)
+[2017.10.02-17.56.27:622][587]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (143)
+[2017.10.02-17.56.27:638][587]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (141)
+[2017.10.02-17.56.27:639][587]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (139)
+[2017.10.02-17.56.27:655][587]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (137)
+[2017.10.02-17.56.27:660][587]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (135)
+[2017.10.02-17.56.27:680][587]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (133)
+[2017.10.02-17.56.27:680][587]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (131)
+[2017.10.02-17.56.27:680][587]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (129)
+[2017.10.02-17.56.27:696][587]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (127)
+[2017.10.02-17.56.27:696][587]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (125)
+[2017.10.02-17.56.27:696][587]LogModuleManager: Shutting down and abandoning module ImageWrapper (124)
+[2017.10.02-17.56.27:696][587]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (121)
+[2017.10.02-17.56.27:696][587]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (119)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (117)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (115)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (113)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (111)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (109)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (107)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (105)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module Messaging (103)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (101)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (99)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (83)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (81)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (79)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (77)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (75)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (73)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (71)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (69)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (67)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (65)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module InputCore (62)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module Settings (60)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module PhysXCooking (58)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module SteamVR (56)
+[2017.10.02-17.56.27:698][587]LogModuleManager: Shutting down and abandoning module OculusHMD (54)
+[2017.10.02-17.56.27:709][587]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (52)
+[2017.10.02-17.56.27:709][587]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (50)
+[2017.10.02-17.56.27:709][587]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (46)
+[2017.10.02-17.56.27:709][587]LogOnline: Display: Unloading online subsystem: NULL
+[2017.10.02-17.56.27:734][587]LogModuleManager: Shutting down and abandoning module XMPP (45)
+[2017.10.02-17.56.27:745][587]LogModuleManager: Shutting down and abandoning module HTTP (43)
+[2017.10.02-17.56.27:745][587]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.10.02-17.56.27:746][587]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8976914E-4F6D-247B-BE7F-C6A9D5D08A98%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=9e905e7742ede5cc8d0dc7a3e812a9a1%7Cfebd5a542d2a43a484ee90cd9e3da97c%7C1c180e6e-6f27-4924-8ca9-c3857288d553&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.10.02-17.56.27:763][587]LogModuleManager: Shutting down and abandoning module SSL (42)
+[2017.10.02-17.56.27:769][587]LogModuleManager: Shutting down and abandoning module DesktopPlatform (38)
+[2017.10.02-17.56.27:783][587]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.10.02-17.56.27:796][587]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.10.02-17.56.27:796][587]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.10.02-17.56.27:805][587]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.10.02-17.56.27:815][587]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.10.02-17.56.27:815][587]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.10.02-17.56.27:815][587]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.10.02-17.56.27:837][587]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.10.02-17.56.27:841][587]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.10.02-17.56.27:841][587]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.10.02-17.56.27:855][587]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.10.02-17.56.27:855][587]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.10.02-17.56.27:855][587]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.10.02-17.56.27:855][587]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.10.02-17.56.27:863][587]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.10.02-17.56.27:863][587]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.10.02-17.56.27:863][587]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.10.02-17.56.27:863][587]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.10.02-17.56.27:878][587]LogExit: Exiting.
+[2017.10.02-17.56.27:900][587]Log file closed, 10/02/17 13:56:27
